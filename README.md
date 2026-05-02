@@ -3,6 +3,7 @@
 
 - 🤖 I’m interested in AI, LLM, coding, data/audio visualization and also new tech.
 - 🧑‍🎓 Currently I am pursuing my master's degree and looking for a fulltime Job
+<br>
 
 Get in Touch
 - 🌐 Checkout my portfolio to see my projects: https://sebastian-ptz.github.io/portfolio/
