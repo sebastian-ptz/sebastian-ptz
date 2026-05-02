@@ -6,7 +6,7 @@
 <br>
 
 - 🌐 Checkout my portfolio to see my projects: https://sebastian-ptz.github.io/portfolio/
-- - 💬You can reach out to me at LinkedIn: https://www.linkedin.com/in/sebastian-ptz/
+- 💬You can reach out to me at LinkedIn: https://www.linkedin.com/in/sebastian-ptz/
 <br>
 
 Cheers!✌️
